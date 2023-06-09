@@ -1,0 +1,15 @@
+.cartQty {
+  position: absolute;
+  top: -2px;
+  right: 18%;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  font-size: 14px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.cartWrapper {
+  position: relative;
+  display: inline-block;
+}

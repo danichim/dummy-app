@@ -1,0 +1,15 @@
+version: '3'
+services:
+  web-frontend:
+    build: frontend/
+    image: web-frontend:latest
+    environment:
+      PORT: 5173
+      PROXY_API: http://web-backend:3000
+    ports:
+      - 5173:5173
+  web-backend:
+    build: backend/
+    image: web-backend:latest
+    ports:
+      - 3000:3000

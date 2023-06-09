@@ -1,0 +1,10 @@
+.priceBox {
+  margin: 5px 0;
+}
+.regularPrice {
+  text-decoration: line-through;
+  margin-left: 10px;
+}
+.salePrice {
+  font-weight: bold;
+}
