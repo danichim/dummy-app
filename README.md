@@ -1,12 +1,12 @@
 <h1 align="center">Shop dummy app</h1>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#-about">About</a> &#xa0; | &#xa0; 
+  <a href="#-features">Features</a> &#xa0; | &#xa0;
+  <a href="#-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#-license">License</a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/danichimc/" target="_blank">Author</a>
 </p>
 
